@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Jane Doe",
+      "title": "City Council Member",
+      "location": "Los Angeles, CA",
+      "issue": "Housing",
+      "verified": "2025-04-01"
+    },
+    {
+      "name": "John Smith",
+      "title": "State Representative",
+      "location": "Sacramento, CA",
+      "issue": "Education",
+      "verified": "2025-03-28"
+    }
+  ]
