@@ -5,7 +5,7 @@
 }
 
 body{
-    background: radial-gradient( #b07d83, #1e40af);
+    background-color: #091437;
 }
 
 ul{
@@ -14,7 +14,6 @@ ul{
 a{
     text-decoration: none;
     color: white;
-    
 }
 
 #navbar a:hover{
@@ -57,53 +56,34 @@ img{
     width: 100px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
 }
 
-#navbar button a{
+#footer{
+    margin-left: 60px;
+}
 
+#sec_1{
+    margin-bottom: 40px;
     color: white;
-}
-
-#section_1{
-    color: white;
-    text-align: center;
-    margin-top: 70px;
-}
-#section_1 h1{
-    line-height: 1.6em;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 60px;
+}
+#sec_1 i{
+    margin-right: 30px;
 }
 
-#section_1 p{
-    padding-left: 80px;
-    padding-right: 80px;
-    line-height: 1.5em;
-    margin-bottom: 20px;
+#sec_2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
-#section_1 input{
-    padding-left: 10px;
-    width: 400px;
-    height: 40px;
-    border-radius: 5px;
+#sec_2 div{
     border: 1px solid white;
-    background-color: #091437;
-
-}
-
-
-#section_1 button{
-    height: 40px;
-    width: 100px;
-    background-color: white;
-    color: #091437;
-    border: none;
-    margin-left: 5px;
+    width: 90%;
+    height: 120px;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-bottom: 8px;
     border-radius: 5px;
-}
-
-#section_1 button a{
-    color: #091437;
-    text-decoration: none;
+    line-height: 25px;
 }

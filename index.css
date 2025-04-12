@@ -59,6 +59,7 @@ img{
     width: 100px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
 }
 
 #navbar button a{
