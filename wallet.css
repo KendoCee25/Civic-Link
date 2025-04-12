@@ -68,7 +68,7 @@ img{
 }
 
 .conn{
-    margin-top: 100px;
+    margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
 
@@ -77,7 +77,7 @@ img{
     background: linear-gradient(to right,#4460BC,#88DDD3);
     color: white;
     padding: 10px, 5px;
-    margin-top: 10px;
+    
     height: 30px;
     width: 100px;
     border-radius: 10px;
@@ -97,6 +97,7 @@ img{
 }
 
 #wallet button{
+    margin-top: 100px;
     color: white;
     height: 35px;
     background-color: #2B3342;
